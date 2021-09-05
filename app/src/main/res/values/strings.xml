@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Rahul\'s Calculator</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="multiply">*</string>
+    <string name="divide">/</string>
+    <string name="all_right_are_reserved">All Right Are Reserved</string>
+</resources>
